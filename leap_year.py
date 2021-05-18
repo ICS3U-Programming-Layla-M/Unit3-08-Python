@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by: Layla Michel
-# Created on: May, 12, 2021
+# Created on: May 18, 2021
 # This program asks the user to input a year
 # and displays if it's a leap year or not
 
